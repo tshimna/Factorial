@@ -11,5 +11,9 @@ java Factorial
 
 Adding file s to git hub : *******
 
+
+git add .
+git commit -m " this is for sample"
+
 git remote add origin https://github.com/tshimna/Factorial.git
 git push -u origin master
