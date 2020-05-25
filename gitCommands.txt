@@ -1,0 +1,15 @@
+com.automation.Learnings.DataStructureAndAlgo.Factorial
+
+
+C:\IdeaProjects\capilano\src\com\automation\Learnings\DataStructureAndAlgo\Factorial.java
+
+
+c:\jenkin\projects
+javac Factorial.java
+java Factorial
+
+
+Adding file s to git hub : *******
+
+git remote add origin https://github.com/tshimna/Factorial.git
+git push -u origin master
