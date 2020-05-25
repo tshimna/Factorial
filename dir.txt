@@ -1,0 +1,12 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 6230-22FB
+
+ Directory of C:\Jenkin\projects
+
+05/25/2020  12:49 AM    <DIR>          .
+05/25/2020  12:49 AM    <DIR>          ..
+05/25/2020  12:49 AM                 0 dir.txt
+05/25/2020  12:49 AM               503 Factorial.class
+05/24/2020  11:55 PM               207 Factorial.java
+               3 File(s)            710 bytes
+               2 Dir(s)  66,170,040,320 bytes free
